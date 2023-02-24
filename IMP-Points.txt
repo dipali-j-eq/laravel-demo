@@ -1,0 +1,3 @@
+Steps to start laravel project
+1) check composer version in CMD : composer -v
+2) After you have installed PHP and Composer, you may create a new Laravel project via the Composer create-project command: composer create-project laravel/laravel example-app
